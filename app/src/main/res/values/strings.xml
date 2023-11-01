@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FlagsQuiz</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="submit">Submit</string>
+
+    <string name="question">What country does this flag belong to?</string>
+    <string name="results">Results</string>
+    <string name="question_of">Question %d of %d</string>
+    <string name="your_score_is">Your score is:</string>
+    <string name="flag_image">flag image</string>
+    <string name="correct_answers">Correct Answers: %d</string>
+    <string name="points">+%d pts.</string>
+    <string name="elapsed_time">Elapsed time: %s</string>
+    <string name="elapsed_seconds">-%d pts.</string>
+    <string name="click_start">Click start to begin.</string>
+    <string name="start">Start</string>
+    <string name="flags_quiz">Flags Quiz!</string>
+</resources>
